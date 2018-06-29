@@ -1,15 +1,26 @@
 body {
   text-align: center;
   background: black;
-}
-
-.first_heading {
   color: white;
   font-family: "Verdana", sans-serif;
+}
+
+.first_heading {    
   font-weight: normal;
+  font-size: 50px;
 }
 
 .link > a {
   color: aquamarine;
   font-size: 16px;
+}
+
+.second_heading {  
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.para {  
+  font-size: 21px;
+  color: gray;
 }
